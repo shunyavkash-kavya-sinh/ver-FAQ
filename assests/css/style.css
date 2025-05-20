@@ -33,7 +33,7 @@ body {
   overflow: hidden;
   height: 500px;
   position: relative;
-  transition: all 500ms ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .faq-block.active .faq-img {
